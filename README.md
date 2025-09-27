@@ -7,7 +7,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">Continuous-time Representation learning on Temporal Heterogeneous Graph</h3>
+  <h3 align="center">Code for paper “CTRL: Continuous-Time Representation Learning on Temporal Heterogeneous Information Network"</h3>
 
 <!-- TABLE OF CONTENTS -->
 <!--<details open="open">-->
@@ -58,3 +58,4 @@ Find the details about the arguements in main.py
 ACM and DBLP: https://www.aminer.cn/citation\#b541
 
 IMDB: https://www.imdb.com/interfaces/
+
